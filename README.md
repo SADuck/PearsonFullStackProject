@@ -2,31 +2,7 @@ Quick Start:
 
 •	To start the application, first you will need to use the node package manager to download the following dependencies in the react project (Copy and paste into the terminal):
 
-o	npm install axios
-
-o	npm install cors
-
-o	npm install date-fns
-
-o	npm install fs
-
-o	npm install http
-
-o	npm install prop-types
-
-o	npm install react-big-calendar
-
-o	npm install react-datepicker
-
-o	npm install react-helmet
-
-o	npm install react-router-dom
-
-o	npm install @mui/material @mui/styled-engine-sc styled-components
-
-o	npm install @mui/x-charts
-
-o	npm install @mui/material @emotion/react @emotion/styled
+npm install
 
 	Also don’t forget to download the express.js for the server-side files (the backend servers in the server-side folder)
 
