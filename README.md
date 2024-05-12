@@ -1,6 +1,6 @@
 Quick Start:
 
-•	To start the application, first you will need to use the node package manager to download the following dependencies in the react project (Copy and paste into the terminal):
+•	To start the application first you will need to Delete the package-lock.json in dern-support file an then, you will need to use the node package manager to download the following dependencies in the react project (Copy and paste into the terminal):
 
 npm install
 
