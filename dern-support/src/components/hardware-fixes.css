@@ -1,0 +1,106 @@
+.hardware-fixes-blog-post-card {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  flex-direction: row;
+  justify-content: center;
+}
+.hardware-fixes-image {
+  width: 500px;
+  object-fit: cover;
+}
+.hardware-fixes-container {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-image: radial-gradient(circle at center bottom, rgb(189, 195, 199) 0.00%,rgb(0, 0, 0) 100.00%);
+}
+.hardware-fixes-text {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  text-transform: uppercase;
+}
+.hardware-fixes-text1 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.hardware-fixes-container1 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hardware-fixes-text2 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.hardware-fixes-text3 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 200;
+}
+.hardware-fixes-button {
+  margin-bottom: 3%;
+}
+.hardware-fixes-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hardware-fixes-text4 {
+  color: #ffffff;
+  font-weight: 400;
+}
+.hardware-fixes-root-class-name {
+  margin-bottom: 3%;
+}
+.hardware-fixes-root-class-name4 {
+  margin-bottom: 3%;
+}
+.hardware-fixes-root-class-name5 {
+  margin-bottom: 3%;
+}
+@media(max-width: 991px) {
+  .hardware-fixes-image {
+    width: 50%;
+  }
+}
+@media(max-width: 767px) {
+  .hardware-fixes-blog-post-card {
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .hardware-fixes-image {
+    width: 100%;
+  }
+  .hardware-fixes-container {
+    width: 100%;
+  }
+  .hardware-fixes-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .hardware-fixes-text1 {
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .hardware-fixes-container1 {
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .hardware-fixes-text3 {
+    width: auto;
+  }
+}

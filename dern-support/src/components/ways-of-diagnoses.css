@@ -1,0 +1,100 @@
+.ways-of-diagnoses-blog-post-card {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 0px 0px 10px 2px #1f1f1f;
+  flex-direction: row;
+  justify-content: center;
+}
+.ways-of-diagnoses-image {
+  width: 500px;
+  object-fit: cover;
+}
+.ways-of-diagnoses-container {
+  flex: 1;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(270deg, rgb(189, 195, 199) 54.00%,rgb(0, 0, 0) 100.00%);
+}
+.ways-of-diagnoses-text {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  text-transform: uppercase;
+}
+.ways-of-diagnoses-text1 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.ways-of-diagnoses-container1 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ways-of-diagnoses-text2 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.ways-of-diagnoses-text3 {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 200;
+}
+.ways-of-diagnoses-button {
+  margin-bottom: 3%;
+}
+.ways-of-diagnoses-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ways-of-diagnoses-text4 {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+
+@media(max-width: 991px) {
+  .ways-of-diagnoses-image {
+    width: 50%;
+  }
+}
+@media(max-width: 767px) {
+  .ways-of-diagnoses-blog-post-card {
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .ways-of-diagnoses-image {
+    width: 100%;
+  }
+  .ways-of-diagnoses-container {
+    width: 100%;
+  }
+  .ways-of-diagnoses-text {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .ways-of-diagnoses-text1 {
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .ways-of-diagnoses-container1 {
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .ways-of-diagnoses-text3 {
+    width: auto;
+  }
+}

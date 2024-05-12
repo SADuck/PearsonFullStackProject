@@ -1,0 +1,239 @@
+.account-setup-page-sign-up-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.account-setup-page-sign-up-header {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.account-setup-page-sign-up-nav {
+  flex: 0 0 auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.account-setup-page-sign-up-text {
+  font-size: 1.5em;
+  font-style: normal;
+  font-family: "Roboto";
+  font-weight: 300;
+}
+.account-setup-page-sign-up-form {
+  width: 100%;
+  height: 1013px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-image: radial-gradient(circle at left bottom, rgb(255, 255, 255) 0.00%,rgb(0, 0, 0) 100.00%);
+}
+.account-setup-page-sign-up-container1 {
+  width: 311px;
+  height: 50%;
+  display: flex;
+  box-shadow: 5px 5px 15px 15px #3c3c3c;
+  align-items: center;
+  border-color: #000000;
+  border-width: 1.5px;
+  border-radius: var(--dl-radius-radius-radius2);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.account-setup-page-sign-up-text01 {
+  color: #ffffff;
+  align-self: center;
+  margin-right: 180px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.account-setup-page-sign-up-textinput {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
+.account-setup-page-sign-up-text02 {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-right: 182px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.account-setup-page-sign-up-textinput1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.account-setup-page-sign-up-text03 {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-right: 210px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.account-setup-page-sign-up-textinput2 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.account-setup-page-sign-up-text04 {
+  color: #ffffff;
+  margin-top: 5px;
+  margin-right: 143px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.account-setup-page-sign-up-textinput3 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.account-setup-page-sign-up-button {
+  margin-top: var(--dl-space-space-unit);
+  border-radius: 20px;
+  cursor: pointer;
+}
+.account-setup-page-sign-up-container2 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-self: center;
+  margin-top: 2%;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.account-setup-page-sign-up-icon {
+  fill: #D9D9D9;
+  height: 24px;
+  align-self: stretch;
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+}
+.account-setup-page-sign-up-icon02 {
+  fill: #D9D9D9;
+  height: 24px;
+  align-self: stretch;
+  margin-top: 3%;
+  margin-right: 10%;
+  margin-bottom: 3%;
+}
+.account-setup-page-sign-up-text08 {
+  opacity: 0.6;
+  margin-top: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.account-setup-page-sign-up-text09 {
+  color: #adadad;
+}
+.account-setup-page-sign-up-text10 {
+  color: #ffffff;
+}
+.account-setup-page-sign-up-text11 {
+  color: #678db1;
+}
+.account-setup-page-sign-up-text12 {
+  color: #929292;
+}
+.account-setup-page-sign-up-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.account-setup-page-sign-up-text13 {
+  font-style: normal;
+  font-family: "Roboto";
+  font-weight: 900;
+}
+.account-setup-page-sign-up-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.account-setup-page-sign-up-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.account-setup-page-sign-up-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.account-setup-page-sign-up-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+@media(max-width: 767px) {
+  .account-setup-page-sign-up-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .account-setup-page-sign-up-nav {
+    display: none;
+  }
+  .account-setup-page-sign-up-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .account-setup-page-sign-up-text14 {
+    text-align: center;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .account-setup-page-sign-up-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .account-setup-page-sign-up-footer {
+    padding: var(--dl-space-space-unit);
+    flex-direction: column;
+  }
+  .account-setup-page-sign-up-text13 {
+    font-size: 1.5em;
+  }
+  .account-setup-page-sign-up-text14 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .account-setup-page-sign-up-icon-group {
+    animation-name: pulse;
+    animation-delay: 0s;
+    animation-duration: 300ms;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+  }
+  .account-setup-page-sign-up-icon04 {
+    animation-name: pulse;
+    animation-delay: 0s;
+    animation-duration: 300ms;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    animation-timing-function: ease;
+  }
+}

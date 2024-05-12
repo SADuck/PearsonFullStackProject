@@ -1,0 +1,70 @@
+[{
+  "repairsDone": 6,
+  "dolarsGained": 100,
+  "customersReturned": 5,
+  "partsSold": 10,
+  "year": 2015
+},
+{
+  "repairsDone": 25,
+  "dolarsGained": 500,
+  "customersReturned": 11,
+  "partsSold": 56,
+  "year": 2016
+},
+{
+  "repairsDone": 42,
+  "dolarsGained": 1100,
+  "customersReturned": 22,
+  "partsSold": 112,
+  "year": 2017
+},
+{
+  "repairsDone": 52,
+  "dolarsGained": 2400,
+  "customersReturned": 36,
+  "partsSold": 192,
+  "year": 2018
+},
+{
+  "repairsDone": 83,
+  "dolarsGained": 7200,
+  "customersReturned": 80,
+  "partsSold": 389,
+  "year": 2019
+},
+{
+  "repairsDone": 49,
+  "dolarsGained": 6800,
+  "customersReturned": 75,
+  "partsSold": 351,
+  "year": 2020
+},
+{
+  "repairsDone": 229,
+  "dolarsGained": 45120,
+  "customersReturned": 421,
+  "partsSold": 686,
+  "year": 2021
+},
+{
+  "repairsDone": 450,
+  "dolarsGained": 87500,
+  "customersReturned": 753,
+  "partsSold": 1158,
+  "year": 2022
+},
+{
+  "repairsDone": 782,
+  "dolarsGained": 168200,
+  "customersReturned": 989,
+  "partsSold": 1486,
+  "year": 2023
+},
+{
+  "repairsDone": 1186,
+  "dolarsGained": 265890,
+  "customersReturned": 2580,
+  "partsSold": 3890,
+  "year": 2024
+}]
